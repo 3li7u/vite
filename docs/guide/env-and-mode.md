@@ -148,5 +148,5 @@ As `vite build` runs a production build by default, you can also change this and
 
 ```
 # .env.testing
-NODE_ENV=development
+MODE_ENV=development
 ```
